@@ -41,4 +41,4 @@ The dashboard consists of three main slides:
 2. Open `index.html` in a web browser
 3. Prayer times can be updated with new longitude and latitude.
 
-## NOTE: The included link is a static website lacking api integration 
+## NOTE: The included link is a hosted statically, lacking api integration 
