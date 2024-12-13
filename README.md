@@ -39,4 +39,6 @@ The dashboard consists of three main slides:
 
 1. Clone the repository  
 2. Open `index.html` in a web browser
-3. Prayer times can be updated with new longitude and latitude. 
+3. Prayer times can be updated with new longitude and latitude.
+
+## NOTE: The included link is a static website lacking api integration 
