@@ -4,6 +4,11 @@ A dynamic, responsive web app that displays current prayer times, jumua'ah times
 
 Preview Link:  https://habeelom.github.io/PrayerTimesWeb/
 
+<img width="1000" alt="Screenshot 2024-12-29 at 9 45 55 PM" src="https://github.com/user-attachments/assets/3748d9a3-ff2b-499d-b3c4-adb9989300e4" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 41 54 PM" src="https://github.com/user-attachments/assets/65b19130-910d-4d2d-979c-b12438577ee3" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 42 30 PM" src="https://github.com/user-attachments/assets/d0e51845-acf0-48dd-96ff-7157901793ef" />
+
+
 ## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript
